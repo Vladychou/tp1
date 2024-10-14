@@ -1,0 +1,150 @@
+body {
+    background:linear-gradient(rgb(40, 24, 24), rgb(61, 15, 15), rgb(224, 85, 42), rgb(106, 44, 14),rgb(106, 44, 14), rgb(224, 85, 42),rgb(61, 33, 33), rgb(42, 19, 19));
+    /*faire des couleur qui vont fit la phot avec de l'aide de mozilla*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.titre {
+    background-color: black;
+    color:rgb(124, 54, 32);
+    font-size:xx-large;
+}
+.sousTitre {
+    text-align: left;
+    background-color: black;
+    color:rgb(124, 54, 32);
+    font-size:x-large;
+    padding: 5px;
+}
+table, tr, th, td{
+    margin:auto;
+    width: 66%;
+}
+.nomActeurs {
+    margin-right: 200px;
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.personnage {
+    font-size:small;
+    font-style: italic;
+    color:rgb(212, 25, 25);
+}
+
+#photoActeur{
+    background-image: url("../images/Ahmed_Best.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur1{
+    background-image: url("../images/Ewan_McGregor.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur2{
+    background-image: url("../images/Ian_McDiarmid.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur3{
+    background-image: url("../images/Jake_Lloyd.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur4{
+    background-image: url("../images/Liam_Neeson.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur5{
+    background-image: url("../images/Natalie_Portman.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur6{
+    background-image: url("../images/Ray_Park.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#photoActeur:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+#photoActeur1:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+#photoActeur2:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+#photoActeur3:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+#photoActeur4:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+#photoActeur5:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+#photoActeur6:hover {
+    cursor: pointer;
+    border: 2px solid black;
+    width: 75px;
+    height: 75px;
+}
+
+    
