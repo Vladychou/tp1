@@ -1,6 +1,5 @@
 body {
     background:linear-gradient(rgb(40, 24, 24), rgb(61, 15, 15), rgb(224, 85, 42), rgb(106, 44, 14),rgb(106, 44, 14), rgb(224, 85, 42),rgb(61, 33, 33), rgb(42, 19, 19));
-    /*faire des couleur qui vont fit la phot avec de l'aide de mozilla*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
